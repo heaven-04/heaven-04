@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Ayoub Dababi 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohamed-ayoub-dababi2121/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamedayoub.dababi@enicar.ucar.tn"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,8 +18,6 @@
 - 🎓 **Current Status:** 2nd-year Software Engineering student.
 - 📐 **Background:** Former *Prépa MP* (Math & Physics) student, bringing strong analytical and algorithmic skills to my code.
 - ⚙️ **Focus:** I know my way around a frontend, but my heart is in the **Backend**. I love building robust APIs and managing databases.
-- 🌱 **Currently Learning:** [Add something you are currently learning, e.g., Microservices, Docker, etc.]
-- ⚡ **Fun Fact:** [Add a fun fact, hobby, or something about your coding style]
 
 ---
 
@@ -51,13 +49,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heaven-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heaven-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
