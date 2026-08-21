@@ -54,10 +54,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heaven-04&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohamed's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-04&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heaven-04&theme=dark&hide_border=true" alt="GitHub Streak"/>
