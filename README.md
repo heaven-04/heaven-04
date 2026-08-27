@@ -39,8 +39,10 @@
   <!-- Using the more stable demolab mirror for Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=heaven-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
-<p align="center">
-  <!-- Standard stats card (if it continues to break, you can safely delete this block) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=heaven-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heaven-04/heaven-04/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heaven-04/heaven-04/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/heaven-04/heaven-04/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
