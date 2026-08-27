@@ -33,13 +33,14 @@
 </p>
 
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heaven-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heaven-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- Using the more stable demolab mirror for Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=heaven-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <!-- Standard stats card (if it continues to break, you can safely delete this block) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heaven-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
