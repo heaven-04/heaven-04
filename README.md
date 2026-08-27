@@ -39,6 +39,7 @@
   <!-- Using the more stable demolab mirror for Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=heaven-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heaven-04/heaven-04/output/dist/github-contribution-grid-snake-dark.svg">
