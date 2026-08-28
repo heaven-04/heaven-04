@@ -28,7 +28,7 @@
 <p align="center">
   <!-- Skillicons configured to break cleanly at 9 per line -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,django,fastapi,spring,html,css,postgres,mongodb,sqlite,git,docker,kubernetes,linux,heroku,postman&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,fastapi,spring,html,css,postgres,mongodb,sqlite,git,docker,kubernetes,linux,heroku,postman&perline=9" alt="Tech Stack" />
   </a>
 </p>
 
